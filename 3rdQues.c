@@ -12,6 +12,6 @@ int main(){
             c=1;
         }
     }
-    printf("%d is %d times\n",arr[i-1],c); // could use this inside the if condition by creating this condition if(i==n)
+    printf("%d is %d times\n",arr[i-1],c); // could use this inside the if condition by creating this condition if(i<n)
 
 }
